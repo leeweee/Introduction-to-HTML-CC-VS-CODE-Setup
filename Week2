@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daisy Dahye Lee Introduction</title>
+</head>
+<body>
+  <header>
+    <h1>Daisy Dahye Lee</h1>
+    <h2>Artist and Creative Student</h2>
+  </header>
+
+  <section>
+    <h3>About Me</h3>
+    <p>Hello, my name is Daisy Dahye Lee. I am a student who is interested in photography, design, and visual storytelling. I enjoy creating images that feel emotional, thoughtful, and visually strong.</p>
+    <p>I am currently studying art and developing my creative practice. My goal is to grow as both an artist and a creative director. I am especially interested in work that combines <em>fashion, photography, and identity</em>.</p>
+  </section>
+
+  <section>
+    <h3>Education</h3>
+    <div>
+      <h4>Current School</h4>
+      <p>I am currently attending <strong>CalArts</strong> as a BFA student. My studies focus on art, photography, and creative experimentation.</p>
+    </div>
+  </section>
+
+  <section>
+    <h3>Skills</h3>
+    <div>
+      <h4>Creative Skills</h4>
+      <p>I have experience with photography, Photoshop, visual composition, and creative direction. I also enjoy exploring how images can communicate mood and meaning.</p>
+    </div>
+
+    <div>
+      <h4>Personal Strengths</h4>
+      <p>I am creative, observant, and motivated. I enjoy working on projects that require both imagination and attention to detail.</p>
+    </div>
+  </section>
+
+  <section>
+    <h3>Interests</h3>
+    <h5>Visual Art and Photography</h5>
+    <p>I love making and studying images. I am inspired by flowers, fashion imagery, and carefully designed visual worlds.</p>
+
+    <h5>Creative Career Goals</h5>
+    <p>In the future, I want to work in areas such as editorial photography, album artwork, art direction, and branding.</p>
+  </section>
+
+  <section>
+    <h3>More Information</h3>
+    <h6>Favorite Website</h6>
+    <p>You can visit the CalArts website here:
+      <a href="https://calarts.edu" target="_blank">CalArts</a>.
+    </p>
+  </section>
+
+  <section>
+    <h3>Image</h3>
+    <p>Below is an image that represents creativity and visual art.</p>
+    <img src="https://via.placeholder.com/300" alt="Placeholder image representing creativity" width="300" height="200">
+  </section>
+
+  <footer>
+    <p>Created by Daisy Dahye Lee</p>
+  </footer>
+</body>
+</html>
